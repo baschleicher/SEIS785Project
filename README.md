@@ -1,2 +1,2 @@
-# SEIS785Project
+# Onelook
 Class Project for IoT Class
